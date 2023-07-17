@@ -9,5 +9,5 @@ for the family business ERK-CAD ltd.
 
 ## Some of my favorite projects in the past have been:
 ### Sarcistic Virtual Assistant using Open AI API
-### Lidar Autonomated Surveying Robot
+### Lidar Automated Surveying Robot
 
