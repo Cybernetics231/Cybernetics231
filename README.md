@@ -8,6 +8,6 @@ for the family business ERK-CAD ltd.
 ### :microscope: I'm currently learning ObjectARX, TensorFlow, and Pytorch
 
 ## Some of my favorite projects in the past have been:
-### Sarcistic Virtual Assistant using Open AI API
-### Lidar Automated Surveying Robot
+### :robot: Sarcistic Virtual Assistant using Open AI API
+### :world_map: Lidar Automated Surveying Robot
 
