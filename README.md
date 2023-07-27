@@ -4,7 +4,6 @@ I am an electrical engineering student at the University of Calgary and as a sid
 for the family business ERK-CAD ltd. 
 
 ## What I am up to:
-###	:flight_departure: I'm currently working on a fully autonomous UAV using deep learning and machine learning. 
 ### :microscope: I'm currently learning ObjectARX, TensorFlow, and Pytorch
 
 ## Some of my favorite projects in the past have been:
